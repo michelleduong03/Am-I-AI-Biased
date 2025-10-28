@@ -1,8 +1,6 @@
 # Am I(AI) Biased
 
-**Am I(AI) Biased** is a research-based project focused on exploring and identifying bias in large language models (LLMs).  
-The goal is to understand how models interpret, generate, and possibly reinforce biased patterns through their responses.  
-This project combines hands-on testing of models with academic research to uncover how bias appears and what methods exist to detect or reduce it.
+**Am I(AI) Biased** is a research-based project focused on exploring and identifying bias in large language models (LLMs). The goal is to understand how models interpret, generate, and possibly reinforce biased patterns through their responses. This project combines hands-on testing of models with academic research to uncover how bias appears and what methods exist to detect or reduce it.
 
 ---
 
