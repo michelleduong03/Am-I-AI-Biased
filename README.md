@@ -59,7 +59,7 @@ Researching and documenting findings on AI bias, including reviewing recent acad
 
 ---
 
-## 📚 Authors
+## Authors
 
 **Michelle Duong, Jason Tran, AaJanae Henry**  
 Pacific University – B.S. in Computer Science (Expected Graduation: May 2026)
